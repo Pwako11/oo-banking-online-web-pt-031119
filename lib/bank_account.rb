@@ -16,7 +16,7 @@ class BankAccount
  
  def display_balance 
    "your Balance is $ #{balance}."
-   
+   balance 
  end
  
  def close_account
